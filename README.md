@@ -1,7 +1,11 @@
-📱 INSTA-BETA
+__**📱 INSTA-BETA**__
+
 Insta-Beta is a feature-enhanced version of Instagram Beta, built to offer early access to upcoming features along with better compatibility, developer tools, and a smoother user experience.
 
-🚀 FEATURES
+
+
+**🚀 FEATURES:-**
+
 ✅ 32-bit Device Support – Run Instagram Beta on older or unsupported devices
 
 🔄 Clone-Friendly – Use it alongside the official Instagram app
@@ -12,17 +16,24 @@ Insta-Beta is a feature-enhanced version of Instagram Beta, built to offer early
 
 ❌ No Build Expiry or Forced Updates – Enjoy uninterrupted usage
 
-🔮 COMING SOON
+
+
+**🔮 COMING SOON**
+
 📂 Custom Backup Format: .igbeta.xbak support for cleaner and secure backup handling
 
 🧩 More exclusive features and tweaks in future versions
 
-🎯 WHY INSTA-BETA?
+
+
+**🎯 WHY INSTA-BETA?**
 Whether you're a tester, developer, or just someone who enjoys getting early access to Instagram features, Insta-Beta offers a more stable and flexible experience than the standard Beta.
 
 No forced updates. No limitations. Just more control.
 
-📦 HOW TO USE
+
+
+**📦 HOW TO USE**
 Download the latest APK from the Releases section
 
 Install on your Android device
@@ -35,11 +46,17 @@ Get early Instagram Beta features — with fewer restrictions
 
 ⚠️ No root required. Works on both rooted and non-rooted devices.
 
-📁 BACKUP FORMAT INFO
+
+
+**📁 BACKUP FORMAT INFO**
+
 We are developing support for a custom backup format: **.igbeta.xbak**
 This will replace existing .json formats for more secure and organized backups in future updates.
 
-👨‍💻 DEVELOPER
+
+
+*****👨‍💻 DEVELOPER*****
+
 Made with ❤️ by Tech X
 Follow us for updates and feature drops: https://t.me/instabetaapp
 
