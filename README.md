@@ -1,4 +1,4 @@
-**📱 Insta-Beta**
+# **📱 Insta-Beta**
 
 Insta-Beta is an enhanced, unofficial build of the Instagram Beta app, designed to provide early access to upcoming features, improved compatibility across devices, and advanced tools tailored for developers and power users.
 
@@ -8,42 +8,42 @@ Insta-Beta is an enhanced, unofficial build of the Instagram Beta app, designed 
 
 
 
-**📚 Table of Contents**
+## **📚 Table of Contents**
 
-◈ Features
+### ◈ Features
  - AD Free Experience.
  - Clone Support.
  - 32 Bit Support ( Works In Every Device ).
  - Accessible Developer Option.
  - Customizable.
 
-◈ Why Insta-Beta?
+### ◈ Why Insta-Beta?
  - We Provide You Best Beta Builds Experience With Most Rare 32 Bit Updates And It,s Free To Use So Why Not To Try!
 
-◈ Installation
+### ◈ Installation
  - Download App From Our Telegram Channel Or Github.
  - Install App And Login Into Your Account.
  - Enjoy!
 
-◈ Usage
+### ◈ Usage
  - If You Are A Begginer And Never Used Any Mod Like This The Watch Tutorial Video From My Youtube Channel.
 
-◈ Backup Format
+### ◈ Backup Format
  - Curruntly We Support " mc_overrides.json " As Backup.
 
-◈ Coming Soon
+### ◈ Coming Soon
  - Custom Backup Format.
  - In App Import/Export.
  - Many More...
 
-◈ Troubleshooting
+### ◈ Troubleshooting
  - If You Are Facing Any Issue Ask Us On Our Telegram Group.
 
-◈ Contributors
+### ◈ Contributors
  - Curruntly Im The Only One Who Is Managing This All.
  - Contact Me If You Want To Help With This Project.
 
-◈ License 
+### ◈ License 
  - For What?
  - Ummm Okay Read This:
 
@@ -53,9 +53,13 @@ Insta-Beta is an enhanced, unofficial build of the Instagram Beta app, designed 
  - Not affiliated with Instagram or Meta Platforms, Inc.
  - Use responsibly and respect the original developers' work and platform guidelines.
 
-**Thanks For Connecting With Us**
+##### **Thanks For Connecting With Us**
 
 
+## **Connect With Us**
+- Telegram Group: [@instabetaapp](https://t.me/instabetaapp)
+- Youtube Channel: [@tech.x.0](https://www.youtube.com/@tech.x.0)
+- Contact Me Personally: [@the_swaxtik](https://t.me/the_swaxtik)
 
 
-**- Team TECH X✨**
+## **- Team TECH X✨**
